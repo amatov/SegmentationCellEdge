@@ -24,6 +24,7 @@ function [cellIndex,outlineIndex,nucCoord] = segmentOutline(I,coef)
 
 if nargin == 0
     close all
+        % EDIT: hardcoded absolute path to the original author's machine
         I =imread('A:\johan\pos4_t001.tif');%coef2 FIRST image - GOOD EXAMPLE
 
     
