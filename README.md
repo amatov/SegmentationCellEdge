@@ -3,7 +3,7 @@
 ## Quick start
 
 This repository implements cell-outline segmentation by pixel
-intensity thresholding and active contours in MATLAB. See
+intensity thresholding and active contours in Matlab. See
 [DEPENDENCIES.md](DEPENDENCIES.md) for the Image Processing Toolbox
 requirement.
 

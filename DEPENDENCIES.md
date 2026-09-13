@@ -1,7 +1,7 @@
 # Dependencies
 
-No specific MATLAB version is recorded. `segmentOutline.m` uses
-`activecontour`, `imshow`, and `regionprops`, which require MATLAB's
+No specific Matlab version is recorded. `segmentOutline.m` uses
+`activecontour`, `imshow`, and `regionprops`, which require Matlab's
 **Image Processing Toolbox**.
 
 ## Missing input data
