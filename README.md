@@ -1,4 +1,4 @@
-## SegmentionCellEdge
+## Segmention Cell Edge
 
 The Matlab code I wrote to segment cellular outline.
 
